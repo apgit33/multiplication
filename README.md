@@ -15,7 +15,7 @@ Réaliser une mini application de tables de multiplications.
 + Page 6 - Une fois l'étape 5 finalisée : intégrer AJAX au mode révision afin de rendre l'utilisation du mode révision plus fluide.
 
     
-++ Remarque :
+## Remarque :
 
 + Appliquer un aspect "Material design" mais sans Framewok CSS. Le css sera compilé par sass.
 + L'ensemble du site est responsive.
